@@ -1,0 +1,33 @@
+div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    height:100px;
+    gap:5rem;
+}
+.button{
+    border:2px solid black;
+    font-size:2rem
+}
+#grey{
+    background-color: grey;
+}
+#orange{
+    background-color: orange;
+}
+#blue{
+    background-color:blue;
+}
+
+#yellow{
+    background-color:yellow;
+}
+
+.heading{
+    text-align: center;
+    color:black
+}
+h2{
+    text-align: center; 
+}
