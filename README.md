@@ -1,2 +1,2 @@
-# Four_mini_projects
+#javascript_mini_projects
 Using HTML , CSS , JAVASCRIPT
